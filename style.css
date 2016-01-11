@@ -4,21 +4,21 @@ body {
   background-image: url(clouds.png);
   background-repeat: repeat;
 }
-#wrapper {
-  width: 960px;
-  margin: 20px auto 20px auto;
+#header {
+	background-color:black;
+    color:white;
+    padding:5px;
+  	width: 480px;
+  	margin: 20px auto 20px auto;
 }
 h1{
-	color: white;
+	color: green; font-style:italic;
 }
 h4{
-	color: navy;
+	color: green;
 }
-#summary {
+p#p1 {
 	color: orange;
-}
-.unicorns {
-	color: purple;
 }
 p {
 	font-style: italic;
