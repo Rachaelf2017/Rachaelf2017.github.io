@@ -16,9 +16,6 @@
 	vertical-align: center;
 	padding: 1000px;
 }
-.jumbotron{
-	background-color: #CC99FF;
-}
 .page-header{
 	background-image: url("tools.jpg");
 	background-size: 130px;
@@ -32,6 +29,7 @@
 }
 h1{
 	font-family: 'Pacifico', cursive;
+
 }
 .ingredients > img { 
   height: 100px;
@@ -39,4 +37,12 @@ h1{
 }
 .jumbopic >img{
 	height:10px;
+}
+.well{
+	background-color: #ffe5ff;
+}
+.howto{
+	font-size: 20px;
+	color:#330066;
+	font-family: 'Luckiest Guy', cursive;	
 }
